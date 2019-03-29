@@ -2,10 +2,10 @@
 basic calculator in javascript
 
 collaborators:
-https://github.com/msesno
-https://github.com/kiriwilliams
-https://github.com/phpatel662
-https://github.com/Anlinmac
+https://github.com/msesno <br>
+https://github.com/kiriwilliams <br>
+https://github.com/phpatel662 <br>
+https://github.com/Anlinmac <br>
 
 
 
