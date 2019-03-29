@@ -16,7 +16,7 @@ $(document).ready(function(){
             setNumber(this.value);
 
         }
-        else if($(this).hasClass("operator")){
+        else if($(this).hasClass("operator") && isFirstNumber){
             if (isFirstNumber == true){
             //run the operator function
             isSecondNumber = true;
