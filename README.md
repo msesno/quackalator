@@ -10,18 +10,19 @@ https://github.com/Anlinmac
 
 
 # logic
-
 <!-- variables -->
-var number 1
-var munber 2
+var number1
+var munber2
 var operator
 var result
 var clear
 
 <!-- first action -->
+start with empty numbers, operators and results
+
 user clicks number1 - display in first div
 
-user clicks funct - display in second div
+user clicks operator - display in second div
 
 user clicks number2 - display in third div
 
