@@ -14,7 +14,7 @@ https://github.com/Anlinmac
 <!-- variables -->
 var number 1
 var munber 2
-var funct
+var operator
 var result
 var clear
 
