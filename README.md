@@ -16,6 +16,7 @@ var number 1
 var munber 2
 var funct
 var result
+var clear
 
 <!-- first action -->
 user clicks number1 - display in first div
